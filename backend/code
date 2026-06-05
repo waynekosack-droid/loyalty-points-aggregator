@@ -1,0 +1,14 @@
+backend/
+├── app/
+│   ├── __init__.py
+│   ├── main.py              # FastAPI app
+│   ├── config.py            # Settings
+│   ├── models/              # Database models
+│   ├── schemas/             # Pydantic schemas
+│   ├── api/endpoints/       # API routes
+│   ├── services/            # Business logic
+│   ├── db/                  # Database config
+│   └── utils/               # Utilities
+├── requirements.txt
+├── .env.example
+└── main.py
