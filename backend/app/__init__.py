@@ -1,0 +1,1 @@
+"""Loyalty Points Aggregator Backend"""
